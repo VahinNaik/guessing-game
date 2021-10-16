@@ -1,0 +1,16 @@
+[[package]]
+category = "main"
+description = "Simple spellcheck tool"
+name = "spellcheck"
+optional = false
+python-versions = "*"
+version = "1.0.2"
+
+[metadata]
+content-hash = "dd4fd92381839ffdafdb7920e8409aca21bd40b639cc3b0f6175e98207262bd8"
+python-versions = "^3.8"
+
+[metadata.files]
+spellcheck = [
+    {file = "spellcheck-1.0.2.tar.gz", hash = "sha256:cc16c5404e6eac3b757ffefbe91765f2bab44f71be0f82a713dc70eac0efabda"},
+]
